@@ -1,0 +1,21 @@
+body {
+    /* background-color: aqua; */
+    margin: 2%;
+    font-family: sans-serif;
+
+}
+
+form {
+    border: black solid 1px;
+    border-radius: 5px;
+    padding: 2%;
+
+}
+
+div {
+    margin-bottom: 1%;
+}
+
+fieldset {
+    border-radius: 5px;
+}
